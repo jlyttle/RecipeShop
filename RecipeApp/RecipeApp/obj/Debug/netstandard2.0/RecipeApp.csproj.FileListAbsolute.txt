@@ -1,0 +1,9 @@
+C:\Users\Jonathan\OneDrive\Documents\Projects\RecipeShop\RecipeApp\RecipeApp\bin\Debug\netstandard2.0\RecipeApp.deps.json
+C:\Users\Jonathan\OneDrive\Documents\Projects\RecipeShop\RecipeApp\RecipeApp\bin\Debug\netstandard2.0\RecipeApp.dll
+C:\Users\Jonathan\OneDrive\Documents\Projects\RecipeShop\RecipeApp\RecipeApp\obj\Debug\netstandard2.0\RecipeApp.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\OneDrive\Documents\Projects\RecipeShop\RecipeApp\RecipeApp\obj\Debug\netstandard2.0\RecipeApp.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\OneDrive\Documents\Projects\RecipeShop\RecipeApp\RecipeApp\obj\Debug\netstandard2.0\RecipeApp.AssemblyInfoInputs.cache
+C:\Users\Jonathan\OneDrive\Documents\Projects\RecipeShop\RecipeApp\RecipeApp\obj\Debug\netstandard2.0\RecipeApp.AssemblyInfo.cs
+C:\Users\Jonathan\OneDrive\Documents\Projects\RecipeShop\RecipeApp\RecipeApp\bin\Debug\netstandard2.0\RecipeApp.pdb
+C:\Users\Jonathan\OneDrive\Documents\Projects\RecipeShop\RecipeApp\RecipeApp\obj\Debug\netstandard2.0\RecipeApp.dll
+C:\Users\Jonathan\OneDrive\Documents\Projects\RecipeShop\RecipeApp\RecipeApp\obj\Debug\netstandard2.0\RecipeApp.pdb

@@ -1,0 +1,4 @@
+RecipeApp.Android.MainActivity, RecipeApp.Android;md590d9531ba04dad3e277ac27941af664e.MainActivity
+RecipeApp.Android.MainActivity, RecipeApp.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md590d9531ba04dad3e277ac27941af664e.MainActivity
+RecipeApp.Android.MainActivity;md590d9531ba04dad3e277ac27941af664e.MainActivity
+recipeapp.android.MainActivity;md590d9531ba04dad3e277ac27941af664e.MainActivity
