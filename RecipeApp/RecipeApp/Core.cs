@@ -5,15 +5,20 @@ namespace RecipeApp
 {
     public class Core
     {
+        public static async Task<Recipe> GetRecipe(string calories)
+        {
+            return null;
+        }
+
         public static async Task<Weather> GetWeather(string zipCode)
         {
             //Sign up for a free API key at http://openweathermap.org/appid  
-            string key = "YOUR API KEY HERE";
+            string key = "f4bd2e51f95be9f00971a766b4ede303";
             string queryString = "http://api.openweathermap.org/data/2.5/weather?zip="
                 + zipCode + ",us&appid=" + key + "&units=imperial";
 
             //Make sure developers running this sample replaced the API key
-            if (key == "f4bd2e51f95be9f00971a766b4ede303")
+            if (key == "YOUR API HERE")
             {
                 throw new ArgumentException("You must obtain an API key from openweathermap.org/appid and save it in the 'key' variable.");
             }
