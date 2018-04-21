@@ -14,7 +14,11 @@ C:\Users\Jonathan\OneDrive\Documents\Projects\RecipeShop\RecipeApp\RecipeApp.And
 C:\Users\Jonathan\OneDrive\Documents\Projects\RecipeShop\RecipeApp\RecipeApp.Android\obj\Debug\res\values\strings.xml
 C:\Users\Jonathan\OneDrive\Documents\Projects\RecipeShop\RecipeApp\RecipeApp.Android\obj\Debug\R.cs.flag
 C:\Users\Jonathan\OneDrive\Documents\Projects\RecipeShop\RecipeApp\RecipeApp.Android\obj\Debug\uploadflags.txt
+C:\Users\Jonathan\OneDrive\Documents\Projects\RecipeShop\RecipeApp\RecipeApp.Android\bin\Debug\Mono.Android.dll
+C:\Users\Jonathan\OneDrive\Documents\Projects\RecipeShop\RecipeApp\RecipeApp.Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jonathan\OneDrive\Documents\Projects\RecipeShop\RecipeApp\RecipeApp.Android\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Jonathan\OneDrive\Documents\Projects\RecipeShop\RecipeApp\RecipeApp.Android\bin\Debug\RecipeApp.Android.dll
+C:\Users\Jonathan\OneDrive\Documents\Projects\RecipeShop\RecipeApp\RecipeApp.Android\bin\Debug\Microsoft.CSharp.pdb
 C:\Users\Jonathan\OneDrive\Documents\Projects\RecipeShop\RecipeApp\RecipeApp.Android\bin\Debug\Mono.Android.pdb
 C:\Users\Jonathan\OneDrive\Documents\Projects\RecipeShop\RecipeApp\RecipeApp.Android\bin\Debug\mscorlib.pdb
 C:\Users\Jonathan\OneDrive\Documents\Projects\RecipeShop\RecipeApp\RecipeApp.Android\bin\Debug\System.Core.pdb
@@ -33,6 +37,7 @@ C:\Users\Jonathan\OneDrive\Documents\Projects\RecipeShop\RecipeApp\RecipeApp.And
 C:\Users\Jonathan\OneDrive\Documents\Projects\RecipeShop\RecipeApp\RecipeApp.Android\bin\Debug\System.ComponentModel.Composition.pdb
 C:\Users\Jonathan\OneDrive\Documents\Projects\RecipeShop\RecipeApp\RecipeApp.Android\bin\Debug\System.Web.Services.pdb
 C:\Users\Jonathan\OneDrive\Documents\Projects\RecipeShop\RecipeApp\RecipeApp.Android\bin\Debug\System.Xml.Linq.pdb
+C:\Users\Jonathan\OneDrive\Documents\Projects\RecipeShop\RecipeApp\RecipeApp.Android\obj\Debug\linksrc\Microsoft.CSharp.pdb
 C:\Users\Jonathan\OneDrive\Documents\Projects\RecipeShop\RecipeApp\RecipeApp.Android\obj\Debug\linksrc\Mono.Android.pdb
 C:\Users\Jonathan\OneDrive\Documents\Projects\RecipeShop\RecipeApp\RecipeApp.Android\obj\Debug\linksrc\mscorlib.pdb
 C:\Users\Jonathan\OneDrive\Documents\Projects\RecipeShop\RecipeApp\RecipeApp.Android\obj\Debug\linksrc\RecipeApp.pdb

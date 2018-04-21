@@ -1,7 +1,9 @@
 C:\Users\Jonathan\OneDrive\Documents\Projects\RecipeShop\RecipeApp\RecipeApp.Android\obj\Debug\android\assets\RecipeApp.Android.dll
 C:\Users\Jonathan\OneDrive\Documents\Projects\RecipeShop\RecipeApp\RecipeApp.Android\obj\Debug\android\assets\Java.Interop.dll
+C:\Users\Jonathan\OneDrive\Documents\Projects\RecipeShop\RecipeApp\RecipeApp.Android\obj\Debug\android\assets\Microsoft.CSharp.dll
 C:\Users\Jonathan\OneDrive\Documents\Projects\RecipeShop\RecipeApp\RecipeApp.Android\obj\Debug\android\assets\Mono.Android.dll
 C:\Users\Jonathan\OneDrive\Documents\Projects\RecipeShop\RecipeApp\RecipeApp.Android\obj\Debug\android\assets\mscorlib.dll
+C:\Users\Jonathan\OneDrive\Documents\Projects\RecipeShop\RecipeApp\RecipeApp.Android\obj\Debug\android\assets\Newtonsoft.Json.dll
 C:\Users\Jonathan\OneDrive\Documents\Projects\RecipeShop\RecipeApp\RecipeApp.Android\obj\Debug\android\assets\RecipeApp.dll
 C:\Users\Jonathan\OneDrive\Documents\Projects\RecipeShop\RecipeApp\RecipeApp.Android\obj\Debug\android\assets\System.Core.dll
 C:\Users\Jonathan\OneDrive\Documents\Projects\RecipeShop\RecipeApp\RecipeApp.Android\obj\Debug\android\assets\System.dll
